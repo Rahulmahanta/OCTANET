@@ -1,0 +1,54 @@
+
+    body {
+    margin: 0;
+    padding: 0;
+    font-family:'Bebas Neue', sans-serif;
+    
+}
+
+header {
+    background-color: black;
+    color: purple;
+    text-align: left;
+    padding: 20px;
+}
+
+#store-name {
+    font-size: 28px;
+}
+
+#cover-image {
+    background-image: url('image.jpg'); 
+    background-size: cover;
+    height: 100vh;
+}
+
+main {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+#catchphrase h2 {
+    font-size: 24px;
+    color: plum;
+}
+
+#user-actions {
+    margin-top: 20px;
+}
+
+.action-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #c5c1c1;
+    color: red;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    
+}
+
+
